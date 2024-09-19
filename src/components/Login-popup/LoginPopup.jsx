@@ -8,7 +8,7 @@ const LoginPopup = ({setShowLogin}) => {
         <form className="login-container">
             <div className="login-tittle">
                 <h2>{currentState}</h2>
-                <img onClick={()=>setShowLogin(false)} src='/public/images/cross_icon.png' alt=''/>
+                <img onClick={()=>setShowLogin(false)} src='/images/cross_icon.png' alt=''/>
             </div>
             <div className="login-inputs">
 

@@ -1,6 +1,5 @@
 # Hunger-Killer 🍔
-![Uploading Screenshot (225).png…]()
-
+![Screenshot (225)](https://github.com/user-attachments/assets/38a50377-2e69-45e6-9baf-e333a12c9f02)
 
 Hunger-Killer is a modern and responsive food delivery web application built using React.js and CSS. It provides a user-friendly interface to browse food items, add them to the cart, and place orders seamlessly.
 
